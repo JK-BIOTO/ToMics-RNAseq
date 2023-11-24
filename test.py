@@ -10,7 +10,7 @@ class nums:
         Args:
             i (int): integer
         """
-        return i + i
+        return i + i + i
 
 
 def test():

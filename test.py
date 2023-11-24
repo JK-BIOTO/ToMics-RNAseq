@@ -15,7 +15,8 @@ class nums:
 
 def test():
     for i in range(10):
-        nums.xx(i)
+        print(nums.xx(i))
+    return None
 
 
 if __name__ == "__main__":

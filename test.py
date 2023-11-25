@@ -14,7 +14,7 @@ class nums:
 
 
 def test():
-    for i in range(10):
+    for i in range(5):
         print(nums.xx(i))
     return None
 
